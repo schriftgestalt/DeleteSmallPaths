@@ -14,7 +14,7 @@
 #
 ###########################################################################################################
 
-
+import objc
 from GlyphsApp.plugins import *
 
 class DeleteSmallPaths(FilterWithDialog):
